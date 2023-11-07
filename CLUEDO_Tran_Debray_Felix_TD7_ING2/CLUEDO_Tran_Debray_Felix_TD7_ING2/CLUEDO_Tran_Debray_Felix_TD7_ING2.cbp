@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="CLUEDO_Tran_Debray_Felix_TD7_ING2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/CLUEDO_Tran_Debray_Felix_TD7_ING2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/CLUEDO_Tran_Debray_Felix_TD7_ING2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Linker>
+			<Add library="alleg44.dll" />
+		</Linker>
+		<Unit filename="fonc_blocnote.cpp" />
+		<Unit filename="fonc_cartes.cpp" />
+		<Unit filename="fonc_joueur.cpp" />
+		<Unit filename="fonc_pion.cpp" />
+		<Unit filename="header_blocnote.h" />
+		<Unit filename="header_cartes.h" />
+		<Unit filename="header_jeu.h" />
+		<Unit filename="header_joueur.h" />
+		<Unit filename="header_pion.h" />
+		<Unit filename="header_salles.h" />
+		<Unit filename="initialisation.cpp" />
+		<Unit filename="jeu.cpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="salles.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

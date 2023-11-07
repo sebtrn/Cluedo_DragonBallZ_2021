@@ -1,0 +1,181 @@
+# depslib dependency file v1.0
+1638132880 source:c:\users\evand\desktop\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\fonc_blocnote.cpp
+	"header_blocnote.h"
+
+1638133129 c:\users\evand\desktop\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\header_blocnote.h
+	<vector>
+	<stack>
+	<iostream>
+	<map>
+	<ctime>
+	<algorithm>
+	<fstream>
+	<allegro.h>
+
+1638133071 source:c:\users\evand\desktop\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\fonc_cartes.cpp
+	"header_cartes.h"
+
+1638133129 c:\users\evand\desktop\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\header_cartes.h
+	<vector>
+	<stack>
+	<iostream>
+	<map>
+	<ctime>
+	<algorithm>
+	<fstream>
+	<allegro.h>
+
+1638132978 source:c:\users\evand\desktop\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\fonc_pion.cpp
+	"header_pion.h"
+
+1638133129 c:\users\evand\desktop\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\header_pion.h
+	<vector>
+	<stack>
+	<iostream>
+	<map>
+	<ctime>
+	<algorithm>
+	<fstream>
+	<allegro.h>
+
+1638136256 source:c:\users\evand\desktop\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\fonc_joueur.cpp
+	"header_joueur.h"
+
+1638136310 c:\users\evand\desktop\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\header_joueur.h
+	<vector>
+	<stack>
+	<iostream>
+	<map>
+	<ctime>
+	<algorithm>
+	<fstream>
+	<allegro.h>
+	"header_pion.h"
+	"header_cartes.h"
+	"header_blocnote.h"
+	"header_salles.h"
+
+1638132776 source:c:\users\evand\desktop\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\initialisation.cpp
+	"header_jeu.h"
+
+1638133221 c:\users\evand\desktop\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\header_jeu.h
+	<vector>
+	<stack>
+	<iostream>
+	<map>
+	<ctime>
+	<algorithm>
+	<fstream>
+	<allegro.h>
+	"header_cartes.h"
+	"header_joueur.h"
+
+1638137198 source:c:\users\evand\desktop\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\jeu.cpp
+	"header_jeu.h"
+
+1638132727 source:c:\users\evand\desktop\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\main.cpp
+	"header_jeu.h"
+
+1638136026 source:c:\users\evand\desktop\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\salles.cpp
+	"header_salles.h"
+
+1638133129 c:\users\evand\desktop\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\header_salles.h
+	<vector>
+	<stack>
+	<iostream>
+	<map>
+	<ctime>
+	<algorithm>
+	<fstream>
+	<allegro.h>
+
+1638132882 source:c:\users\waldf\desktop\ecole\cours\cours ing2\informatique\1er semestre\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\fonc_blocnote.cpp
+	"header_blocnote.h"
+
+1638133130 c:\users\waldf\desktop\ecole\cours\cours ing2\informatique\1er semestre\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\header_blocnote.h
+	<vector>
+	<stack>
+	<iostream>
+	<map>
+	<ctime>
+	<algorithm>
+	<fstream>
+	<allegro.h>
+
+1638133072 source:c:\users\waldf\desktop\ecole\cours\cours ing2\informatique\1er semestre\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\fonc_cartes.cpp
+	"header_cartes.h"
+
+1638133130 c:\users\waldf\desktop\ecole\cours\cours ing2\informatique\1er semestre\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\header_cartes.h
+	<vector>
+	<stack>
+	<iostream>
+	<map>
+	<ctime>
+	<algorithm>
+	<fstream>
+	<allegro.h>
+
+1638136258 source:c:\users\waldf\desktop\ecole\cours\cours ing2\informatique\1er semestre\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\fonc_joueur.cpp
+	"header_joueur.h"
+
+1638136312 c:\users\waldf\desktop\ecole\cours\cours ing2\informatique\1er semestre\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\header_joueur.h
+	<vector>
+	<stack>
+	<iostream>
+	<map>
+	<ctime>
+	<algorithm>
+	<fstream>
+	<allegro.h>
+	"header_pion.h"
+	"header_cartes.h"
+	"header_blocnote.h"
+	"header_salles.h"
+
+1638133130 c:\users\waldf\desktop\ecole\cours\cours ing2\informatique\1er semestre\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\header_pion.h
+	<vector>
+	<stack>
+	<iostream>
+	<map>
+	<ctime>
+	<algorithm>
+	<fstream>
+	<allegro.h>
+
+1638133130 c:\users\waldf\desktop\ecole\cours\cours ing2\informatique\1er semestre\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\header_salles.h
+	<vector>
+	<stack>
+	<iostream>
+	<map>
+	<ctime>
+	<algorithm>
+	<fstream>
+	<allegro.h>
+
+1638132980 source:c:\users\waldf\desktop\ecole\cours\cours ing2\informatique\1er semestre\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\fonc_pion.cpp
+	"header_pion.h"
+
+1638132778 source:c:\users\waldf\desktop\ecole\cours\cours ing2\informatique\1er semestre\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\initialisation.cpp
+	"header_jeu.h"
+
+1638133222 c:\users\waldf\desktop\ecole\cours\cours ing2\informatique\1er semestre\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\header_jeu.h
+	<vector>
+	<stack>
+	<iostream>
+	<map>
+	<ctime>
+	<algorithm>
+	<fstream>
+	<allegro.h>
+	"header_cartes.h"
+	"header_joueur.h"
+
+1638137820 source:c:\users\waldf\desktop\ecole\cours\cours ing2\informatique\1er semestre\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\jeu.cpp
+	"header_jeu.h"
+
+1638132728 source:c:\users\waldf\desktop\ecole\cours\cours ing2\informatique\1er semestre\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\main.cpp
+	"header_jeu.h"
+
+1638136028 source:c:\users\waldf\desktop\ecole\cours\cours ing2\informatique\1er semestre\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\cluedo_tran_debray_felix_td7_ing2\salles.cpp
+	"header_salles.h"
+
